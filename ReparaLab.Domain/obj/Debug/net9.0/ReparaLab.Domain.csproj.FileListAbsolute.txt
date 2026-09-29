@@ -1,0 +1,11 @@
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\bin\Debug\net9.0\ReparaLab.Domain.deps.json
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\bin\Debug\net9.0\ReparaLab.Domain.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\bin\Debug\net9.0\ReparaLab.Domain.pdb
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.AssemblyInfo.cs
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\refint\ReparaLab.Domain.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ReparaLab.Domain.pdb
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Domain\obj\Debug\net9.0\ref\ReparaLab.Domain.dll

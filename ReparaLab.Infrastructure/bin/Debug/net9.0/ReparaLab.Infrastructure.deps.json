@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReparaLab.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ReparaLab.Application": "1.0.0",
+          "ReparaLab.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ReparaLab.Infrastructure.dll": {}
+        }
+      },
+      "ReparaLab.Application/1.0.0": {
+        "dependencies": {
+          "ReparaLab.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ReparaLab.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ReparaLab.Domain/1.0.0": {
+        "runtime": {
+          "ReparaLab.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReparaLab.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReparaLab.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReparaLab.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

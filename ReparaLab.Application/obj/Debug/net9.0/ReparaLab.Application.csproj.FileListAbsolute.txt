@@ -1,0 +1,15 @@
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.AssemblyInfo.cs
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\bin\Debug\net9.0\ReparaLab.Application.deps.json
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\bin\Debug\net9.0\ReparaLab.Application.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\bin\Debug\net9.0\ReparaLab.Application.pdb
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\bin\Debug\net9.0\ReparaLab.Domain.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\bin\Debug\net9.0\ReparaLab.Domain.pdb
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLa.F2D971CB.Up2Date
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\refint\ReparaLab.Application.dll
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ReparaLab.Application.pdb
+C:\Users\Fabian\Documents\SOFTWARE\5SWA\Patrones de Software\ReparaLab\ReparaLab.Application\obj\Debug\net9.0\ref\ReparaLab.Application.dll
